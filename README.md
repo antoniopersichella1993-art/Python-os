@@ -1,2 +1,2 @@
 # Python-os
-Per ora è solo una beta vorrei creare e continuare a sviluppare questa applicazione Python al meglio renderla molto più leggera possibile e montarla infine su una distro linux molto leggera per creare uno dei sistemi operativi più minimal della storia basato su Python, se volete provarlo scaricatelo versione beta!! ancora non bella
+Per ora è solo una beta vorrei creare e continuare a sviluppare questa applicazione Python al meglio renderla molto più leggera possibile e montarla infine su una distro linux molto leggera per creare uno dei sistemi operativi più minimal della storia basato su Python, se volete provarlo scaricatelo versione beta!! ancora non bella, scaricate la versione più recente in questo caso la 2.2
